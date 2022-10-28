@@ -85,10 +85,25 @@ Next, I created a file named 'routes.js' using Vim and pasted in the code given 
 ![Routes.js File](./images/routes_js.PNG "Routes.js File")
 
 
-Next, n the ‘models’ folder, I created a folder named 'models' and cd'd into it:
+Next, in the ‘models’ folder, I created a folder named 'models' and cd'd into it:
 
 `mkdir models && cd models`
 
 Next, I created a file named 'book.js' using Vim and pasted in the code given as shown below:
 
 ![Book.js File](./images/book_js.PNG "Book.js File")
+
+
+### STEP 4: ACCESSING THE ROUTES WITH ANGULARJS
+
+First, I changed directory back to the Book directory
+
+In the ‘Books’ folder, I created a folder named 'public' and cd'd into it:
+
+`mkdir public && cd public`
+
+Next, I created a file named 'script.js' using Vim and pasted in the code given as shown below:
+
+`vi script.js`
+
+![Script.js File](./images/script_js.PNG "Script.js File")
