@@ -125,3 +125,9 @@ Next, I started the server by running this command:
 The server is running on port 3300, as show below:
 
 ![](./images/server_running.PNG)
+
+I opened up TCP Port 3300 in my AWS console:
+
+![](./images/port_3300.PNG)
+
+C
