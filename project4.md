@@ -64,5 +64,5 @@ In the Books directory, I initialize npm project with the command below and foll
 
 Next, I add a file to it using Vim named it server.js and I pasted in the code provided, as displayed below:
 
-
+![](./images/server_js.PNG)
 
