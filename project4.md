@@ -34,5 +34,16 @@ To install the MongoDB, I ran the commands below:
 `echo "deb [ arch=amd64 ] https://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list`
 
 
+`sudo apt install -y mongodb`
+
+
+I then started the server by running:
+
+`sudo systemctl status mongodb`
+
+![MongoDB Running](./images/mongodb_running.PNG "MongoDB Running")
+
+
+
 
 
