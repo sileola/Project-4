@@ -130,6 +130,9 @@ I opened up TCP Port 3300 in my AWS console:
 
 ![](./images/port_3300.PNG)
 
-I opened the Book Register on my browser using port 33oo. The output is displayed below:
+I opened the Book Register on my browser using port 3300. The output is displayed below:
 
 ![](./images/browers_port3300.PNG)
+
+
+This is the ebd of project 4
