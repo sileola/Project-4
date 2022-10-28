@@ -107,3 +107,14 @@ Next, I created a file named 'script.js' using Vim and pasted in the code given 
 `vi script.js`
 
 ![Script.js File](./images/script_js.PNG "Script.js File")
+
+Next, in the 'public', I created a file named 'index.html' using Vim and pasted in the code given as shown below:
+
+`vi index.html`
+
+![Index.html File](./images/index_html.PNG "Index.html File")
+
+Next, I changed directory back to the 'Books' folder
+
+`cd ..`
+
