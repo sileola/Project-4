@@ -118,3 +118,10 @@ Next, I changed directory back to the 'Books' folder
 
 `cd ..`
 
+Next, I started the server by running this command:
+
+`node server.js`
+
+The server is running on port 3300, as show below:
+
+![](./images/server_running.PNG)
