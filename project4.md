@@ -49,3 +49,20 @@ Next, I installed npm – Node package manager, as below:
 
 `sudo apt insatll -y npm`
 
+
+Next, I installed **body-parser** package, as below:
+
+`sudo npm install body-parser`
+
+Next, I created a new directory *Books* and changed directory into the newly created folder
+
+`mkdir Books && cd Books`
+
+In the Books directory, I initialize npm project with the command below and followed the prompt:
+
+`npm init`
+
+Next, I add a file to it using Vim named it server.js and I pasted in the code provided, as displayed below:
+
+
+
