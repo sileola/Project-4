@@ -66,3 +66,21 @@ Next, I add a file to it using Vim named it server.js and I pasted in the code p
 
 ![](./images/server_js.PNG)
 
+
+
+
+### STEP 3: INSTALL EXPRESS AND SET UP ROUTES TO THE SERVER
+
+First, I installed Mongoose with the following command:
+
+`sudo npm install express mongoose`
+
+
+In the ‘Books’ folder, I created a folder named apps and cd'd into it:
+
+`mkdir apps && cd apps`
+
+Next, I created a file named 'routes.js' using Vim and pasted in the code given as shown below:
+
+[Routes.js File](./images/routes_js.PNG "Routes.js File")
+
