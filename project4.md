@@ -76,11 +76,19 @@ First, I installed Mongoose with the following command:
 `sudo npm install express mongoose`
 
 
-In the ‘Books’ folder, I created a folder named apps and cd'd into it:
+In the ‘Books’ folder, I created a folder named 'apps' and cd'd into it:
 
 `mkdir apps && cd apps`
 
 Next, I created a file named 'routes.js' using Vim and pasted in the code given as shown below:
 
-[Routes.js File](./images/routes_js.PNG "Routes.js File")
+![Routes.js File](./images/routes_js.PNG "Routes.js File")
 
+
+Next, n the ‘models’ folder, I created a folder named 'models' and cd'd into it:
+
+`mkdir models && cd models`
+
+Next, I created a file named 'book.js' using Vim and pasted in the code given as shown below:
+
+![Book.js File](./images/book_js.PNG "Book.js File)
