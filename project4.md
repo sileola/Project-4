@@ -12,12 +12,6 @@ I ran the following commands on my virtual machine to update a list of packages 
 `sudo apt upgrade`
 
 
-Next, I added certificates by running the following commands:
-
-`sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates`
-
-`curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
-
 Next, I installed NodeJS by running the command below:
 
 `sudo apt install -y nodejs`
@@ -39,11 +33,19 @@ To install the MongoDB, I ran the commands below:
 
 I then started the server by running:
 
+
+`sudo systemctl start mongodb`
+
+
+I checked the status with the command below:
+
 `sudo systemctl status mongodb`
 
-![MongoDB Running](./images/mongodb_running.PNG "MongoDB Running")
+![MongoDB Status](./images/mongodb_running.PNG "MongoDB Status")
 
 
 
+Next, I installed npm – Node package manager, as below:
 
+`sudo apt insatll -y npm`
 
