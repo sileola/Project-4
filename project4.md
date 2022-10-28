@@ -91,4 +91,4 @@ Next, n the ‘models’ folder, I created a folder named 'models' and cd'd into
 
 Next, I created a file named 'book.js' using Vim and pasted in the code given as shown below:
 
-![Book.js File](./images/book_js.PNG "Book.js File)
+![Book.js File](./images/book_js.PNG "Book.js File")
