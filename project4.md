@@ -1,3 +1,6 @@
 ## PROJECT 4: MEAN STACK IMPLEMENTATION
 
-Alright
+___
+### **STEP 1: NODE JS INSTALLATION**
+___
+
